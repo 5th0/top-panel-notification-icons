@@ -1,0 +1,10 @@
+{
+  "name": "Top Panel Notification Icons",
+  "description": "Display notification icons in the Top Panel",
+  "uuid": "top-panel-notification-icons@5th0.github.com",
+  "shell-version": [
+    "40",
+    "3.38",
+    "3.36"
+  ]
+}
